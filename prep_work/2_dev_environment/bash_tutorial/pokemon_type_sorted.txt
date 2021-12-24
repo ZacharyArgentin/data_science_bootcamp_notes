@@ -1,0 +1,22 @@
+cat pokemon_data.txt | cut -f 2 | sort
+
+
+Bug
+Bug
+Bug
+Bug
+Bug
+Bug
+Electric
+Fire
+Fire
+Fire
+Grass
+Grass
+Grass
+Normal
+Normal
+Normal
+Water
+Water
+Water

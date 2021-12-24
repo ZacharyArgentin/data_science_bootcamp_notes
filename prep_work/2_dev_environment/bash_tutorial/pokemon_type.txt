@@ -1,0 +1,22 @@
+cat pokemon_data.txt | cut -f 2
+
+
+Electric
+Grass
+Fire
+Water
+Bug
+Bug
+Normal
+Grass
+Fire
+Water
+Bug
+Bug
+Normal
+Grass
+Fire
+Water
+Bug
+Bug
+Normal

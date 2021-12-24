@@ -1,0 +1,8 @@
+cat pokemon_data.txt | cut -f 2 | sort | uniq -c | sort -k1,1nr
+
+   6 Bug
+   3 Fire
+   3 Grass
+   3 Normal
+   3 Water
+   1 Electric
