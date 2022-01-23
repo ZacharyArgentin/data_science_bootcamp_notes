@@ -8,6 +8,8 @@ You use an API to figure out what request you want to make to the server, and th
 
 > - Loosely, an API is a programmer friendly version of a website.
 
+**Technical Definition:** An API is the part of the server that receives requests and sends responses.
+
 ---
 
 Using APIs helps you utilize third party solutions.
@@ -24,7 +26,7 @@ xml stands for "extensible markup language"
 > - xml tags are not predefined like html tags
 > - xml is designed to carry data
 > - html is designed for displaying data
-> - xml stores data in plain text format, Therefor it is software and hardware independent
+> - xml stores data in plain text format, Therefore it is software and hardware independent
 
 # Types of APIs
 
@@ -112,7 +114,7 @@ JSON-RPC (JavaScript Object Notation) is a protocol which uses JSON format to tr
 
 - simple date formats and light payloads
 
- - REST APIs use a single uniform interface. This simplifies how applications interact with the API by requiring they all interface in the same way, through the same portal. This has advantages and disadvantages.
+ - REST APIs use a single uniform interface. This simplifies how applications interact with the API by requiring they all interact in the same way, through the same portal. This has advantages and disadvantages.
 
 - REST calls can be cached.
 
